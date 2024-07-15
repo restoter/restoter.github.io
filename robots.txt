@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://restoter.github.io/sitemap
+Sitemap: https://restoter.github.io/app/sitemap
+Sitemap: https://restoter.github.io/assets/sitemap
+Sitemap: https://restoter.github.io/css/sitemap
+Sitemap: https://restoter.github.io/includes/sitemap
+Sitemap: https://restoter.github.io/item/sitemap
+Sitemap: https://restoter.github.io/src/sitemap
